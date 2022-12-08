@@ -95,6 +95,9 @@ __*Record Storing of Staff and Patients:*__
     After that you would be eligible to use the diffrent functionality of the 
     members or take an appointment for the required doctor if available.
 
+### **3. UML Diagram of Project**
+
+![miniproj](https://user-images.githubusercontent.com/97591189/206441425-8233acf8-488c-4a7d-a20f-462e3028e8e9.png)
 
 
 
