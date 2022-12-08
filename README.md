@@ -1,5 +1,9 @@
 # **Hospital-Management-Project**
 
+## Participants:
+  1. Abineth 
+  2. Aashay
+
 A Console program is an Object-Oriented Approach written in C++ to implement Hospital Management
  System which monitors:
 
