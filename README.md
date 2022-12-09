@@ -102,15 +102,10 @@ __*Record Storing of Staff and Patients:*__
 ### **5. Output**
 
 #### **ADMIN MODE:**
-     
-
-      https://user-images.githubusercontent.com/97591189/206688964-e1d0b6b0-15d0-47e7-8ae1-b95391d9477b.mp4
-
 
       
 #### **RECEPTIONIST AND DOCTOR MODE:**
 
-      https://user-images.githubusercontent.com/97591189/206681432-850a11f8-57db-4f06-8705-68fc9559c1eb.mp4
 
 
 
