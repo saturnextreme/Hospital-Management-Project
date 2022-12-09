@@ -104,6 +104,10 @@ __*Record Storing of Staff and Patients:*__
 #### **ADMIN MODE:**
 
       
+
+[Feature] https://user-images.githubusercontent.com/97591189/206690101-a720e87a-3e4b-420b-b30c-4b28584762f0.mp4
+
+
 #### **RECEPTIONIST AND DOCTOR MODE:**
 
 
