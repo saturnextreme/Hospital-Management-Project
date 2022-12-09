@@ -103,7 +103,7 @@ __*Record Storing of Staff and Patients:*__
 
 #### **ADMIN MODE:**
       
-      https://user-images.githubusercontent.com/97591189/206681301-0ac372c3-9cac-46cb-9a3c-184516fc14c5.mp4
+      https://github.com/saturnextreme/Hospital-Management-Project/blob/main/OutputVideo/admin.mp4
       
 #### **RECEPTIONIST AND DOCTOR MODE:**
 
