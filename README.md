@@ -120,8 +120,6 @@ __*Record Storing of Staff and Patients:*__
 
 ![2022-12-09 (9)](https://user-images.githubusercontent.com/98078409/206649974-b8b63d1b-5989-4dba-a63d-a62a78043c9c.png)
 
-![2022-12-09 (10)](https://user-images.githubusercontent.com/98078409/206650103-b6e57193-d178-413e-a441-516883fb902a.png)
-
 ![2022-12-09 (11)](https://user-images.githubusercontent.com/98078409/206650200-9d6a739d-8d93-4739-88f7-31e160739da0.png)
 
 ![2022-12-09 (12)](https://user-images.githubusercontent.com/98078409/206650323-a82122d2-a603-44a6-92d2-90828472b0f1.png)
