@@ -102,8 +102,11 @@ __*Record Storing of Staff and Patients:*__
 ### **5. Output**
 
 #### **ADMIN MODE:**
-      
-      https://github.com/saturnextreme/Hospital-Management-Project/blob/main/OutputVideo/admin.mp4
+     
+
+      https://user-images.githubusercontent.com/97591189/206688964-e1d0b6b0-15d0-47e7-8ae1-b95391d9477b.mp4
+
+
       
 #### **RECEPTIONIST AND DOCTOR MODE:**
 
