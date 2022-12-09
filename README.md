@@ -99,9 +99,15 @@ __*Record Storing of Staff and Patients:*__
 
 ![miniproj](https://user-images.githubusercontent.com/97591189/206441425-8233acf8-488c-4a7d-a20f-462e3028e8e9.png)
 
+### **5. Output**
+
+![image](https://user-images.githubusercontent.com/97591189/206627248-e2b39291-b94b-4580-b895-4eefdd6bdaa4.png)
+
+![image](https://user-images.githubusercontent.com/97591189/206627326-40659fa1-f4ac-4c41-b540-3a55b40a7ff6.png)
+
+![image](https://user-images.githubusercontent.com/97591189/206627463-1de01538-14f8-4410-863b-19d97d7fb75b.png)
 
 
-    
 
                 
     
