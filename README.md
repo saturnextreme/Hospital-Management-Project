@@ -150,6 +150,12 @@ __*Record Storing of Staff and Patients:*__
 
 ![2022-12-09 (25)](https://user-images.githubusercontent.com/98078409/206651150-c899d5bd-f843-44a9-8e7f-bb2504630af4.png)
 
+![2022-12-09 (37)](https://user-images.githubusercontent.com/98078409/206669386-51bdfd61-468d-4bc9-ae61-3b206ada9c14.png)
 
+![2022-12-09 (38)](https://user-images.githubusercontent.com/98078409/206669605-bc2e5fd2-5827-439f-98a9-2b4547d3d890.png)
 
+![2022-12-09 (39)](https://user-images.githubusercontent.com/98078409/206669693-69df9bd9-e0a0-42e2-bc51-39e930a37915.png)
 
+![2022-12-09 (40)](https://user-images.githubusercontent.com/98078409/206669781-630312df-ff8f-453e-9d1c-04d0de2c94cf.png)
+
+![2022-12-09 (41)](https://user-images.githubusercontent.com/98078409/206669878-cc539337-7359-43c3-b8db-6ef245a9013b.png)
