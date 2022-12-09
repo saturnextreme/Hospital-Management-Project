@@ -105,11 +105,9 @@ __*Record Storing of Staff and Patients:*__
 
 https://user-images.githubusercontent.com/97591189/206690767-d99f3055-6795-4495-8796-4c2871d2f8e4.mp4
 
-
-
 #### **RECEPTIONIST AND DOCTOR MODE:**
 
-
+https://user-images.githubusercontent.com/97591189/206691235-37978955-920a-46b2-918b-bc892f97db90.mp4
 
 
 
